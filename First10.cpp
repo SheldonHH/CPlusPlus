@@ -2,7 +2,7 @@
 //  main.cpp
 //  Programming in C++
 //
-//  Created by 快耍慢活 on 3/1/17.
+//  Created by  on 3/1/17.
 //  Copyright © 2017 sheldon. All rights reserved.
 //
 
